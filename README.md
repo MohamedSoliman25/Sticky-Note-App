@@ -4,13 +4,13 @@ Sticky Note App allows us to make sticky notes, display notes as a list or grid,
 ####
 ## Tools
 
-Room Database
-RXJava
-MVVM
-Live Data
-Gson
-Lottie For Animation
-Material Design
+ -Room Database
+ -RXJava
+ -MVVM
+ -Live Data
+ -Gson
+ -Lottie For Animation
+ -Material Design
 
 ## Screenshots
 
